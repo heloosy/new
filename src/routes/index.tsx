@@ -140,14 +140,7 @@ function Index() {
           {/* Cut Glint Flash */}
           <span className="ribbon-flash" aria-hidden="true" />
 
-          {/* Cut Ribbon Button */}
-          <button
-            type="button"
-            onClick={cutRibbon}
-            className="ribbon-cut-btn"
-          >
-            ✂ Cut the Ribbon
-          </button>
+          
         </div>
       )}
     </main>
