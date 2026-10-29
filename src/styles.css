@@ -145,7 +145,7 @@
   width: 100vw;
   max-width: none;
   height: auto;
-  transform: translateY(-50%);
+  transform: translateY(-50%) scaleY(0.25);
   transform-origin: center;
   pointer-events: auto;
   cursor: pointer;
